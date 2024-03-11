@@ -1,2 +1,4 @@
 # Primeiro Projeto
- Primeiro repositorio exemplo
+ Primeiro repositório exemplo
+
+Projeto para aprendizado
